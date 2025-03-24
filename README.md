@@ -39,6 +39,16 @@ Start the development server with:
 npm run dev
 ```
 
-Your application should now be running
+Your application should now be running locally!
 
 ---
+
+## Core Models
+This system is built around the following core models:
+- **Truck**
+- **Driver**
+- **VehicleCheck**
+- **Shipment**
+- **Report**
+
+The model, factory, migration, and controller files for these entities have already been created.
